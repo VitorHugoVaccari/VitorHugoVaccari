@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Vitor%20Hugo%20Vaccari%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20de%20Software&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Always%20learning%2C%20always%20building." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Always+learning%2C+always+building." alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -13,20 +13,29 @@
 ## 📌 About Me
 - 💻 Web Developer in Training
 - 🎓 Information Systems Student + Internet Informatics Technician
-- ⚙️ Building real-world web applications
-- 📚 Currently focused on Backend with Node.js & TypeScript
+- ⚙️ Building real-world web applications: authentication, CRUD, business rules
+- 📚 Currently deepening my knowledge of Java for object-oriented backend development
 - 🚀 Learning through projects and practical experience
-- 🤝 Open to collaboration and continuous improvement
+- 🤝 Open to internship opportunities and collaboration
+
+
+## 🚀 Featured Projects
+
+**[Technical Visitor Access Control System](https://github.com/VitorHugoVaccari/visitor-access-control)**
+Web system for managing technical visitor entry and exit, with authentication, full CRUD, active visitor dashboard, and access history.
+`PHP (CodeIgniter 4)` · `MySQL` · `JavaScript` · `HTML/CSS`
+
+**[Severance Pay Calculator](https://github.com/VitorHugoVaccari/calculadora-rescisao)**
+Web app for simulating Brazilian labor law (CLT) severance pay — automatic calculation of prorated vacation, 13th salary, FGTS, and notice period. Original project, published on GitHub Pages.
+`JavaScript (ES6+)` · `HTML/CSS`
 
 
 ## 🧠 My Focus Areas
-- Backend Engineering
-- Node.js
-- TypeScript
-- REST APIs
-- MySQL
-- Software Architecture
-- Web Development
+- Backend with PHP (CodeIgniter)
+- MySQL modeling and queries
+- JavaScript (DOM, OOP, ES6+)
+- Java — currently studying, next step for object-oriented backend
+- Best practices: authentication, data validation, business rules
 
 
 ## 📊 GitHub Stats & Trophies
@@ -45,24 +54,23 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
 
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
 
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" />
 
 </p>
 
@@ -75,8 +83,7 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 
 </p>
 
