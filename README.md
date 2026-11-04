@@ -1,103 +1,106 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Vitor%20Hugo%20Vaccari%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20de%20Software&descSize=18&descAlignY=55&textBg=false"/>
+<!-- ============ BANNER ============ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Always%20learning%2C%20always%20building." alt="Typing introduction" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8B5CF6&height=230&section=header&text=Vitor%20Hugo%20Vaccari&fontSize=46&fontColor=F0F6FC&fontAlignY=38&desc=Desenvolvedor%20Back-end%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=58&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Banner" />
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=VitorHugoVaccari">
-    <img src="https://komarev.com/ghpvc/?username=VitorHugoVaccari&label=Profile%20views&color=00FFFF&style=flat-square" alt="VitorHugoVaccari's profile views" />
-  </a>
-</p>
+<!-- Typing: alterna entre especialidades. Máx. 3-4 linhas para não cansar -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1600&color=8B5CF6&center=true&vCenter=true&repeat=true&width=640&height=40&lines=Java+%2B+Spring+Boot+em+estudo;PHP+%7C+CodeIgniter+4+%7C+MySQL;Autentica%C3%A7%C3%A3o%2C+CRUD+e+regras+de+neg%C3%B3cio;Buscando+meu+primeiro+est%C3%A1gio+em+dev" alt="Typing SVG" />
+</a>
 
-## 📌 About Me
-- 💻 Web Developer in Training
-- 🎓 Information Systems Student + Internet Informatics Technician
-- ⚙️ Building real-world web applications
-- 📚 Currently focused on Backend with Node.js & TypeScript
-- 🚀 Learning through projects and practical experience
-- 🤝 Open to collaboration and continuous improvement
+<br/><br/>
 
+<!-- ============ REDES ============ -->
+<!-- Confirme os links antes de publicar -->
+<a href="https://linkedin.com/in/vitor-hugo-vaccari"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" /></a>
+<a href="mailto:luvaccari88@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="E-mail" /></a>
+<a href="https://github.com/VitorHugoVaccari?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="Repositórios" /></a>
 
-## 🧠 My Focus Areas
-- Backend Engineering
-- Node.js
-- TypeScript
-- REST APIs
-- MySQL
-- Software Architecture
-- Web Development
+</div>
 
+<br/>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/VitorHugoVaccari">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorHugoVaccari&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="VitorHugoVaccari's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=VitorHugoVaccari&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="VitorHugoVaccari's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=VitorHugoVaccari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vitor Hugo Vaccari 's GitHub Trophies" />
-</p>
+<!-- ============ SOBRE ============ -->
+## `> sobre`
 
+<table>
+<tr>
+<td width="62%" valign="top">
 
-## 🛠️ Languages & Tools
+```java
+public class VitorHugo {
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+    String foco     = "Back-end com Java e Spring Boot";
+    String base     = "PHP (CodeIgniter 4), MySQL, JavaScript";
+    String formacao = "Sistemas de Informação (Estácio) + Técnico em Informática para Internet (SENAI)";
+    String local    = "Nova Lima, MG";
+    String status   = "Buscando primeiro estágio em desenvolvimento";
+}
+```
 
-</p>
+</td>
+<td width="38%" valign="top">
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+**Agora**
 
-</p>
+- Estudando Java e Spring Boot (bootcamp Itaú + DIO)
+- Aprofundando SQL e modelagem de dados
+- Praticando Git/GitHub em projetos autorais
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+<!-- Quando tiver um projeto em Spring Boot, adicione aqui -->
 
-</p>
+</td>
+</tr>
+</table>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+<!-- ============ DIVISOR 1 ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8B5CF6&height=70&section=footer" width="100%" alt="" />
 
-</p>
+<!-- ============ STACK ============ -->
+## `> stack`
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+| | |
+|:--|:--|
+| **Back-end** | <img src="https://skillicons.dev/icons?i=php,codeigniter&theme=dark" alt="PHP e CodeIgniter" /> |
+| **Em estudo** | <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="Java e Spring" /> |
+| **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JS" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" /> |
 
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/VitorHugoVaccari">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorHugoVaccari&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<!-- ============ PROJETOS ============ -->
+## `> projetos`
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/vitor-hugo-vaccari/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:luvaccari88@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+| Projeto | O que resolve | Stack |
+|:--|:--|:--|
+| **[Controle de Acesso de Visitantes](https://github.com/VitorHugoVaccari/visitor-access-control)** | Entrada e saída de visitantes técnicos com autenticação, CRUD, histórico de acessos e dashboard de visitantes ativos. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **[Calculadora de Rescisão Trabalhista](https://github.com/VitorHugoVaccari/calculadora-rescisao)** | Simula verbas rescisórias pela CLT: férias proporcionais, 13º, FGTS e aviso prévio. Online via GitHub Pages. | ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Quando existir, adicione uma linha com o projeto Java/Spring Boot. É a linha mais importante do seu README. -->
+
+<!-- ============ DIVISOR 2 ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8B5CF6&height=70&section=footer" width="100%" alt="" />
+
+<!-- ============ ATIVIDADE ============ -->
+## `> atividade`
+
+<div align="center">
+
+<!-- 3D animado: gerado pela GitHub Action (ver workflow). Caminho relativo ao repositório do perfil -->
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Contribuições em 3D" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorHugoVaccari&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=F0F6FC&area=true&area_color=8B5CF6&hide_border=true&hide_title=true" alt="Gráfico de contribuições" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHugoVaccari&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=6" alt="Linguagens mais usadas" />
+
+</div>
+
+<br/>
+
+<!-- ============ RODAPÉ ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8B5CF6&height=100&section=footer" width="100%" alt="" />
